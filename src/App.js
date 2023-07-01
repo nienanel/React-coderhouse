@@ -12,7 +12,7 @@ function App() {
       <Greeting />
       </>
       <>
-      <div className="SkiItemList" style={{backgroundColor: "blue", color: "red"}}>{SkiItemList}</div>
+      <SkiItemList />
       </>
     </div>
     
@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App;
+

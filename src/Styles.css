@@ -50,3 +50,14 @@ nav li:hover {
     transition: ease-in-out 0.4s;
 }
 
+.SkiItemList li {
+    list-style: none;
+    background-color: #C32F27;
+    width: 100%;
+    padding: 2rem;
+}
+
+.SkiItemList {
+    padding: 5rem;
+    display: flex;
+}

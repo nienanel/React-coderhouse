@@ -10,7 +10,7 @@ const SkiItemList = () => {
     ];
 
     return (
-        <div>
+        <div className="SkiItemList">
             <h2>Season 2023!</h2>
             <ul>
                 {skiItems.map((item) => (
