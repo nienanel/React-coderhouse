@@ -12,12 +12,10 @@ nav {
     display:  flex;
     justify-content: space-between;
     align-items: stretch;
-    margin-left: 1rem;
-    margin-right: 0;
     gap: 2rem;
     padding: 0 1rem;
     margin-top: 1rem;
-    width: 95%;
+    width: 100%;
 }
 
 .site-title {
